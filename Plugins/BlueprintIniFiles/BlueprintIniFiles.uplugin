@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.3",
+	"FriendlyName": "Blueprint Ini Files",
+	"Description": "Read/Write from/to any ini files (custom ones too) as string, text, bool, int, float & more.",
+	"Category": "Blueprints",
+	"CreatedBy": "Flash",
+	"CreatedByURL": "https://beacons.ai/flassh",
+	"DocsURL": "https://market.jinou.ovh/documentation/show?id=70",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/7b5f269f-7582-46ee-839e-d30cb4257b26",
+	"SupportURL": "https://discord.com/invite/2NXKYbxjUG",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BlueprintIniFiles",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android"
+			]
+		}
+	]
+}

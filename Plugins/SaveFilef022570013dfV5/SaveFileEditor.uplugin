@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.2",
+	"FriendlyName": "SaveFileEditor",
+	"Description": "Load, edit and save all .sav file to acellerate debug.",
+	"Category": "Editor",
+	"CreatedBy": "Hubber Studios",
+	"CreatedByURL": "https://www.hubberstudios.com/",
+	"DocsURL": "https://www.hubberstudios.com/docs/savefileeditor/index.html",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/489bec9346e0467c95a16185f42ab7cb",
+	"SupportURL": "https://discord.gg/ep4t93D93p",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SaveFileEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
